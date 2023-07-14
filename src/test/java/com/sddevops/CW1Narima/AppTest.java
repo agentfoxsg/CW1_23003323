@@ -11,6 +11,7 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
+     * Adding a New Line to test
      */
     @Test
     public void shouldAnswerWithTrue()
